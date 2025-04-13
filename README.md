@@ -1,1 +1,1 @@
-Application de module de python
+Application de framework de python
