@@ -5,6 +5,7 @@
 |
 <a href=README_fr.md>Français</a>
 <br>
+<br>
 </div>
 
 تطبيق حاسبة عصري وأنيق تم بناؤه باستخدام إطار العمل [Flet](https://flet.dev/) بلغة بايثون.
