@@ -4,8 +4,9 @@
 <a href=README_en.md>English</a>
 |
 <a href=README_fr.md>Français</a>
-</div>
 <br>
+</div>
+
 تطبيق حاسبة عصري وأنيق تم بناؤه باستخدام إطار العمل [Flet](https://flet.dev/) بلغة بايثون.
 
 ## المميزات
