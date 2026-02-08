@@ -1,7 +1,8 @@
 # تطبيق الحاسبة (Flet)
 
-<div dir=rtl>
-[English](README_en.md) | [Français](README_fr.md)
+<div dir=ltr>
+<a href=README_en.md>English<a>
+<a href=README_fr.md>Français</a>
 </div>
 
 تطبيق حاسبة عصري وأنيق تم بناؤه باستخدام إطار العمل [Flet](https://flet.dev/) بلغة بايثون.
