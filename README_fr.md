@@ -1,6 +1,6 @@
 # Application Calc (Flet)
 
-[العربية](README.md) | [English](README_en.md)
+[English](README_en.md) | [العربية](README.md)
 
 Une application de calculatrice moderne et élégante conçue avec le framework [Flet](https://flet.dev/) en Python.
 
