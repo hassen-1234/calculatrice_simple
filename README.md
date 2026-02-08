@@ -1,7 +1,8 @@
 # تطبيق الحاسبة (Flet)
 
 <div dir=ltr>
-<a href=README_en.md>English<a>
+<a href=README_en.md>English</a>
+|
 <a href=README_fr.md>Français</a>
 </div>
 
